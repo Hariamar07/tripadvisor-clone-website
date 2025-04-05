@@ -15,5 +15,5 @@ CSS3 – for styling, layout, and responsiveness
 This project was created to practice building responsive layouts and mimicking a real-world site design using only HTML and CSS.
 
 🚀LINK
-  ()
+  ( https://hariamar07.github.io/tripadvisor-clone-website/)
 
